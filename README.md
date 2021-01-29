@@ -2,7 +2,7 @@
 
 This is a school project from the university
 
-##Screenshots
+## Preview
 
 <p float="left">
     <kbd>
@@ -63,25 +63,25 @@ This is a school project from the university
   <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-09-30.png" width="700" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-11-32.png" width="700" />
+  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-11-32.png" />
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-14-04.png" width="700" />
+  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-14-04.png"/>
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-14-18.png" width="700" />
+  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-14-18.png"/>
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-14-39.png" width="700" />
+  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-14-39.png"/>
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-15-02.png" width="700" />
+  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-15-02.png"/>
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-15-06.png" width="700" />
+  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-15-06.png"/>
   </kbd>
     <kbd>
-  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-15-41.png" width="700" />
+  <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-15-41.png"/>
   </kbd>
 </p>
 
