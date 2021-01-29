@@ -4,6 +4,8 @@ This is a school project from the university
 
 ## Preview
 
+**[View Live Preview](https://kenya-airways.herokuapp.com)**
+
 <p float="left">
     <kbd>
   <img src="https://github.com/charliemun1/oss_alumni_website/blob/main/screenshots/Screenshot from 2021-01-27 18-04-41.png" width="700" />
