@@ -4,7 +4,7 @@ This is a school project from the university
 
 ## Preview
 
-**[View Live Preview](https://kenya-airways.herokuapp.com)**
+**[View Live Preview](https://oss-alumni-website1.000webhostapp.com)**
 
 <p float="left">
     <kbd>
